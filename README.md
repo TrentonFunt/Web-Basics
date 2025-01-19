@@ -1,6 +1,7 @@
 # Repository Overview
 
-Welcome to the **How the Web Works** repository! This project explores the foundational concepts of the internet and web, focusing on how web communication, protocols, and popular services operate behind the scenes. The repository is organized to provide detailed research, code examples, and a well-structured article for educational purposes.
+**How the Web Works - A Guide to the Inner Workings of the Internet** 
+This project explores the foundational concepts of the internet and web, focusing on how web communication, protocols, and popular services operate behind the scenes. The repository is organized to provide detailed research, code examples, and a well-structured article for educational purposes.
 
 ## Brief Description
 This repository is dedicated to explaining the inner workings of the web. It covers key concepts such as web architecture, protocols like HTTP/HTTPS, HTML, DNS, and the implementation of popular web services like e-commerce, social media, and streaming platforms. It aims to bridge the gap between theory and practice by providing in-depth explanations alongside code samples and visuals.
