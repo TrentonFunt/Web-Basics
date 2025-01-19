@@ -61,6 +61,9 @@ To get the most out of this repository:
 - Navigate through the folders and open files using any Markdown editor or text viewer.
 - For code snippets, ensure you have Python installed to run the provided examples.
 
+## Published Article
+https://medium.com/@ddejilade22/how-the-web-works-a-guide-to-what-makes-the-internet-tick-14b9292b5b87
+
 ## Contributions
 Feel free to fork this repository and submit pull requests with improvements or additional insights. All contributions are welcome!
 
