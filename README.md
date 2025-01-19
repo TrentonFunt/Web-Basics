@@ -1,6 +1,6 @@
 # Repository Overview
 
-## **How the Web Works - A Guide to the Inner Workings of the Internet** 
+## **How the Web Works - A Guide to what make the Internet tick** 
 This project explores the foundational concepts of the internet and web, focusing on how web communication, protocols, and popular services operate behind the scenes. The repository is organized to provide detailed research, code examples, and a well-structured article for educational purposes.
 
 ## Brief Description
